@@ -1,0 +1,11 @@
+C:\Users\rparkar\Desktop\Assignments\P2PChatApplication\P2PChatApplication.App\obj\Debug\netcoreapp2.1\P2PChatApplication.App.csprojAssemblyReference.cache
+C:\Users\rparkar\Desktop\Assignments\P2PChatApplication\P2PChatApplication.App\obj\Debug\netcoreapp2.1\P2PChatApplication.App.csproj.CoreCompileInputs.cache
+C:\Users\rparkar\Desktop\Assignments\P2PChatApplication\P2PChatApplication.App\obj\Debug\netcoreapp2.1\P2PChatApplication.App.AssemblyInfoInputs.cache
+C:\Users\rparkar\Desktop\Assignments\P2PChatApplication\P2PChatApplication.App\obj\Debug\netcoreapp2.1\P2PChatApplication.App.AssemblyInfo.cs
+C:\Users\rparkar\Desktop\Assignments\P2PChatApplication\P2PChatApplication.App\bin\Debug\netcoreapp2.1\P2PChatApplication.App.deps.json
+C:\Users\rparkar\Desktop\Assignments\P2PChatApplication\P2PChatApplication.App\bin\Debug\netcoreapp2.1\P2PChatApplication.App.runtimeconfig.json
+C:\Users\rparkar\Desktop\Assignments\P2PChatApplication\P2PChatApplication.App\bin\Debug\netcoreapp2.1\P2PChatApplication.App.runtimeconfig.dev.json
+C:\Users\rparkar\Desktop\Assignments\P2PChatApplication\P2PChatApplication.App\bin\Debug\netcoreapp2.1\P2PChatApplication.App.dll
+C:\Users\rparkar\Desktop\Assignments\P2PChatApplication\P2PChatApplication.App\bin\Debug\netcoreapp2.1\P2PChatApplication.App.pdb
+C:\Users\rparkar\Desktop\Assignments\P2PChatApplication\P2PChatApplication.App\obj\Debug\netcoreapp2.1\P2PChatApplication.App.dll
+C:\Users\rparkar\Desktop\Assignments\P2PChatApplication\P2PChatApplication.App\obj\Debug\netcoreapp2.1\P2PChatApplication.App.pdb
